@@ -56,7 +56,7 @@ li{
   display: flex;
   flex-direction: column;
   width:20%;
-  height: 600px;
+  height: 500px;
 }
 .carousel{
   padding: 20px;
@@ -73,6 +73,7 @@ li{
   width:300px;
    margin: 20px;
    justify-content: center;
+   height: 50vh;
 
 }
 .box{
